@@ -1,0 +1,27 @@
+{
+  "name": "mpgif",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@chakra-ui/icons": "^1.1.1",
+    "@chakra-ui/react": "^1.7.2",
+    "@emotion/react": "^11",
+    "@emotion/styled": "^11",
+    "@ffmpeg/core": "^0.10.0",
+    "@ffmpeg/ffmpeg": "^0.10.1",
+    "@fontsource/karla": "^4.5.0",
+    "framer-motion": "^4",
+    "preact": "^10.5.13",
+    "react-icons": "^4.3.1",
+    "react-loader-spinner": "^4.0.0",
+    "video.js": "^7.17.0",
+    "vite-plugin-cross-origin-isolation": "^0.1.1"
+  },
+  "devDependencies": {
+    "vite": "^2.6.4"
+  }
+}
